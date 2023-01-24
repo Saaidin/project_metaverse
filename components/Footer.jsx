@@ -38,8 +38,8 @@ const Footer = () => (
           <h4 className="font-extrabold text-[24px] text-white">
             METAVERSAL
           </h4>
-          <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © 2021 - 2022 Metaversal. All rights reserved.
+          <p className="font-normal text-[14px] text-white opacity-50 tracking-widest">
+            Copyright © 2023 Metaversal. All rights reserved.
           </p>
 
           <div className="flex gap-4">
